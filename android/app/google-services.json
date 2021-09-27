@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23136767304",
+    "project_id": "sparks-21e05",
+    "storage_bucket": "sparks-21e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23136767304:android:67f5749408d5580cc3b77d",
+        "android_client_info": {
+          "package_name": "com.appsmaven.sparks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23136767304-5qvl3lga4arpk572tki3l9bomvkv93p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsmaven.sparks",
+            "certificate_hash": "4072bdd27f2b8998db2d0b8b71c8ceebfb8aed1e"
+          }
+        },
+        {
+          "client_id": "23136767304-ffng0inlp1oc6ittm1mb87nkdp0kho5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHoElMPiMgf3suZrX3AAXgm2W8Arrl-0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23136767304-ffng0inlp1oc6ittm1mb87nkdp0kho5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
